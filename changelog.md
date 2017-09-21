@@ -26,16 +26,18 @@ Release Date: Jul 26, 2027
 
 -   controllers
 
-    -    (CD)
-    -   hindi (CD)
+    -   Welcome.php (Benjamin Wang)
+	-   Gallery.php (Benjamin Wang)
+	-   About.php 	(Benjamin Wang)
+	
+-	core
 
--   models
-
-    -   italian (AB)
-
+	-	MY_controller (Benjamin Wang)
+    
 -   views
 
-    -   slovenian (AB)
-    -   swedish
-
+    -   welcome.php (Benjamin Wang)
+	-   gallery.php (Benjamin Wang)
+	-   about.php 	(Benjamin Wang)
+	
 
