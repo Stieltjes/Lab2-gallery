@@ -12,13 +12,21 @@ Release Date: Jul 26, 2027
 
 -   controllers
 
-    -   serbian (AB)
+    -   Welcome.php (Judy Zhu)
+	-   Gallery.php (Judy Zhu)
+	-   About.php 	(Judy Zhu)
     
+-   views
+
+    -   welcome.php (Judy Zhu)
+	-   gallery.php (Judy Zhu)
+	-   about.php 	(Judy Zhu)
+	
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
+    -    (CD)
     -   hindi (CD)
 
 -   models
